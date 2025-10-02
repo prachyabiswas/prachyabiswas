@@ -46,7 +46,5 @@
 ### Featured Projects
 - 🥔 **Potato Disease Classification (CNN)** — image classification pipeline with data aug & evaluation  
   ➤ https://github.com/prachyabiswas/DISEASE-CLASSIFICATION.git
-- 📈 **SVM from Scratch / with scikit-learn** — experiments, kernels, and comparisons  
-  ➤ https://github.com/<prachyabiswas>/svm-experiments
 
 
