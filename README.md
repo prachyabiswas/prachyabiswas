@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-  <h1>Hi, I'm Prachya 👋</h1>
+  <h1>Hi, I'm Prachya </h1>
   <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
 
 </div>
