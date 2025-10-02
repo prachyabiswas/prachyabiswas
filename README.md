@@ -1,9 +1,11 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm <Prachya> 👋</h1>
-<p align="center">
-ML & Deep Learning Learner | Java + Python | Loves Building Things
-<br/>
-<a href="<YOUR_PORTFOLIO_URL>">🌐 Portfolio</a> •
+<div align="center">
+
+  <h1>Hi, I'm Prachya 👋</h1>
+  <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
+
+</div>
+
 <a href="https://www.linkedin.com/in/<https://www.linkedin.com/feed/>/">LinkedIn</a> •
 <a href="mailto:<prachya.biswas@g.bracu.ac.bd>">Email</a>
 </p>
