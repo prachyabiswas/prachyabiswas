@@ -36,7 +36,7 @@
 
 ### Streak
 <p>
-  <img src="https://streak-stats.demolab.com?user=<prachyabiswas>" height="165"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=prachyabiswas"/>
 </p>
 
 
