@@ -1,16 +1,62 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi, I'm <Prachya Biswas> 👋</h1>
+<p align="center">
+ML & Deep Learning Learner | Java + Python | Loves Building Things
+<br/>
+<a href="<YOUR_PORTFOLIO_URL>">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/<https://www.linkedin.com/feed/>/">LinkedIn</a> •
+<a href="mailto:<prachya.biswas@g.bracu.ac.bd>">Email</a>
+</p>
 
-<!--
-**prachyabiswas/prachyabiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About me
+- 🔭 Learning & building in **Machine Learning** and **Deep Learning** (hands-on projects).
+- 🧰 Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and Jupyter.
+- 🏆 Former **Regional Math Olympiad Champion**.
+- 💡 I enjoy solving problems and writing clean, reproducible code.
+- 🎯 Current focus: improving model performance, clean data pipelines, and experiment tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+<!-- core -->
+![Python](https://img.shields.io/badge/Python-000?logo=python)
+![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
+![NumPy](https://img.shields.io/badge/NumPy-000?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-000?logo=pandas)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?logo=pytorch)
+![Jupyter](https://img.shields.io/badge/Jupyter-000?logo=jupyter)
+![Git](https://img.shields.io/badge/Git-000?logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-000?logo=visualstudiocode)
+<!-- add/remove as you like -->
+
+### GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact"/>
+</p>
+
+### Streak
+<p>
+  <img src="https://streak-stats.demolab.com?user=<prachyabiswas>" height="165"/>
+</p>
+
+### Trophies (optional)
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=<prachyabiswas>&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+### Visitor Count (optional)
+![](https://komarev.com/ghpvc/?username=<YOUR_USERNAME>&style=flat-square)
+
+---
+
+### Featured Projects
+- 🥔 **Potato Disease Classification (CNN)** — image classification pipeline with data aug & evaluation  
+  ➤ https://github.com/<prachyabiswas>/potato-disease-classification
+- 📈 **SVM from Scratch / with scikit-learn** — experiments, kernels, and comparisons  
+  ➤ https://github.com/<prachyabiswas>/svm-experiments
+- 🤖 **ML Utilities** — reusable preprocessing, metrics, and plotting helpers  
+  ➤ https://github.com/<prachyabiswas>/ml-utils
+
