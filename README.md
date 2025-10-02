@@ -6,7 +6,7 @@
 
 </div>
 
-<a href="https://www.linkedin.com/in/<https://www.linkedin.com/feed/>/">LinkedIn</a> •
+<a href="https://https://www.linkedin.com/in/prachya-biswas-06715932a//feed/>/">LinkedIn</a> •
 <a href="mailto:<prachya.biswas@g.bracu.ac.bd>">Email</a>
 </p>
 
