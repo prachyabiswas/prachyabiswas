@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm <Prachya Biswas> 👋</h1>
+<h1 align="center">Hi, I'm <Prachya> 👋</h1>
 <p align="center">
 ML & Deep Learning Learner | Java + Python | Loves Building Things
 <br/>
@@ -31,21 +31,13 @@ ML & Deep Learning Learner | Java + Python | Loves Building Things
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?logo=visualstudiocode)
 <!-- add/remove as you like -->
 
-### GitHub Stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact"/>
-</p>
 
 ### Streak
 <p>
   <img src="https://streak-stats.demolab.com?user=<prachyabiswas>" height="165"/>
 </p>
 
-### Trophies (optional)
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=<prachyabiswas>&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
+
 
 ### Visitor Count (optional)
 ![](https://komarev.com/ghpvc/?username=<YOUR_USERNAME>&style=flat-square)
