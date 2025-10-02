@@ -41,10 +41,7 @@
 
 
 
-### Visitor Count (optional)
-![](https://komarev.com/ghpvc/?username=<YOUR_USERNAME>&style=flat-square)
 
----
 
 ### Featured Projects
 - 🥔 **Potato Disease Classification (CNN)** — image classification pipeline with data aug & evaluation  
