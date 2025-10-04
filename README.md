@@ -2,7 +2,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-  ➤ https://github.com/prachyabiswas/DISEASE-CLASSIFICATION.git
+
 
 
 
@@ -53,6 +53,6 @@
 
 ### Featured Projects
 - 🥔 **Potato Disease Classification (CNN)** — image classification pipeline with data aug & evaluation
-
+  ➤ https://github.com/prachyabiswas/DISEASE-CLASSIFICATION.git
 
 
