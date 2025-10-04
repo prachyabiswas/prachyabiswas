@@ -18,6 +18,7 @@
 - 🎯 Current focus: improving model performance, clean data pipelines, and experiment tracking.
 
 ### Tech Stack
+<p align="center">
 [![Python](https://img.shields.io/badge/Python-0A0A0A?logo=python&logoColor=FFD343&style=for-the-badge)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-0A0A0A?logo=openjdk&logoColor=F89820&style=for-the-badge)](https://openjdk.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?logo=numpy&logoColor=4DABCF&style=for-the-badge)](https://numpy.org/)
@@ -28,7 +29,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-0A0A0A?logo=jupyter&logoColor=F37626&style=for-the-badge)](https://jupyter.org/)
 [![Git](https://img.shields.io/badge/Git-0A0A0A?logo=git&logoColor=F05032&style=for-the-badge)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-0A0A0A?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge)](https://code.visualstudio.com/)
-
+</p>
 <!-- add/remove as you like -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prachyabiswas)](https://github.com/anuraghazra/github-readme-stats)
 
