@@ -32,9 +32,9 @@
 ![Git](https://img.shields.io/badge/Git-000?logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?logo=visualstudiocode)
 <!-- add/remove as you like -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulCreates)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prachyabiswas)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaifulCreates&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prachyabiswas&show_icons=true&count_private=true)  
 
 
 ### Streak
