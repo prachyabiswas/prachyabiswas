@@ -1,4 +1,4 @@
-<!-- Header -->
+![Profile views](https://komarev.com/ghpvc/?prachyabiswas=USERNAME&label=Profile%20views&color=0e75b6&style=flat)<!-- Header -->
 <div align="center">
 
   <h1>Hi, I'm Prachya </h1>
