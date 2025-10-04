@@ -32,7 +32,15 @@
 ![Git](https://img.shields.io/badge/Git-000?logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?logo=visualstudiocode)
 <!-- add/remove as you like -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulCreates)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaifulCreates&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/SaifulCreates/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/SaifulCreates)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SaifulCreates)
 
 ### Streak
 <p>
