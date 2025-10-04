@@ -1,5 +1,10 @@
-![Profile views](https://komarev.com/ghpvc/?prachyabiswas=USERNAME&label=Profile%20views&color=0e75b6&style=flat)<!-- Header -->
-<div align="center">
+<!-- Profile views -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+  ➤ https://github.com/prachyabiswas/DISEASE-CLASSIFICATION.git
+
+
 
   <h1>Hi, I'm Prachya </h1>
   <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
@@ -50,10 +55,4 @@
 - 🥔 **Potato Disease Classification (CNN)** — image classification pipeline with data aug & evaluation
 
 
-<!-- Profile views -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-  ➤ https://github.com/prachyabiswas/DISEASE-CLASSIFICATION.git
 
-\
