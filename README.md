@@ -3,11 +3,10 @@
   <h1>Hi, I'm Prachya </h1>
   <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/">LinkedIn</a> •
+  <a href="mailto:prachya.biswas@g.bracu.ac.bd">Email</a>
 </div>
-
-<a href="https://https://www.linkedin.com/in/prachya-biswas-06715932a//feed/>/">LinkedIn</a> •
-<a href="mailto:<prachya.biswas@g.bracu.ac.bd>">Email</a>
-</p>
 
 ---
 
