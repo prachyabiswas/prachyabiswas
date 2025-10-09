@@ -17,9 +17,6 @@
 - 💡 I enjoy solving problems and writing clean, reproducible code.
 - 🎯 Current focus: improving model performance, clean data pipelines, and experiment tracking.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prachyabiswas&theme=dark&hide_border=true" alt="GitHub Streak (fallback)"/>
-</p>
 
 
 <p align="center">
