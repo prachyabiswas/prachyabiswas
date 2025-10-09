@@ -17,6 +17,28 @@
 - 💡 I enjoy solving problems and writing clean, reproducible code.
 - 🎯 Current focus: improving model performance, clean data pipelines, and experiment tracking.
 
+### <p align="center">Find me here</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@m180prachya2" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/prachya-biswas-06715932a//" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/prachyabiswas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+ 
+  <a href="https://www.instagram.com/beloved_prachya//" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:prachya.biswas@g.bracu.ac.bd">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 
 <p align="center">
