@@ -42,6 +42,13 @@
 </p>
 
 
+### Most Used Languages
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachyabiswas&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&card_width=380"
+    height="170"
+  />
+</p>
 
 
 ### Featured Projects
