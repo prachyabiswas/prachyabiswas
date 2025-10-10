@@ -20,9 +20,7 @@
 ### <p align="center">Find me here</p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@m180prachya2" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+
   <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
