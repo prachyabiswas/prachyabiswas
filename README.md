@@ -25,7 +25,7 @@
 
 
 
-  <h1>Hi, I'm Prachya </h1>
+  <p align="center"><h1>Hi, I'm Prachya </h1><p>
   <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
 
 <div align="center">
