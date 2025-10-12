@@ -27,6 +27,13 @@
 
   <p align="center"><h1>Hi, I'm Prachya </h1><p>
   <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
+<!-- Typing effect (centered) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=4F8CFF&center=true&vCenter=true&repeat=true&width=650&lines=I+am+Prachya;ML+%26+Deep+Learning+Learner;Trying+to+learn+how+machines+learn"
+    alt="Typing SVG"
+  />
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/">LinkedIn</a> •
