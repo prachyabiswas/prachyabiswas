@@ -1,7 +1,37 @@
 [Profile views](https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&color=0e75b6&style=flat)
 <p align="center">
-  <img src="assets/neon-title.svg" alt="Welcome to My Github Profile" />
+  <svg width="100%" height="80" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="0" result="blur">
+          <animate attributeName="stdDeviation" values="0;4;0" dur="2.2s" repeatCount="indefinite"/>
+        </feGaussianBlur>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   stop-color="#00E5FF"/>
+        <stop offset="50%"  stop-color="#7C4DFF"/>
+        <stop offset="100%" stop-color="#FF4081"/>
+      </linearGradient>
+    </defs>
+
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+          font-size="44" fill="url(#grad)" filter="url(#glow)" opacity="0.9"
+          style="letter-spacing:0.5px;">
+      Welcome to My Github Profile
+    </text>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+          font-size="44" fill="url(#grad)" style="letter-spacing:0.5px;">
+      Welcome to My Github Profile
+    </text>
+  </svg>
 </p>
+
 
 
 <!-- Rainbow line -->
