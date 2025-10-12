@@ -19,7 +19,7 @@
 </p>
 
 <h1>
-  Hello Everyone
+  Hello  World
   <img src="assets/earth.gif" width="28" alt="Rotating Earth"/>
 </h1>
 
