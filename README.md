@@ -15,9 +15,11 @@
 <rect x="0" y="0" width="100" height="6" rx="3" ry="3" fill="url(#grad)"/>
 </svg>
 </p>
+<h1>
+  Hello 👋 World
+  <img src="assets/earth.gif" width="28" alt="Rotating Earth"/>
+</h1>
 
-<h1> Hello 👋 World
-<img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="28" alt="Rotating Earth"/
 
 <h1>Hi, I'm Prachya </h1>
 <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
