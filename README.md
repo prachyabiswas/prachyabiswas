@@ -1,20 +1,23 @@
 [Profile views](https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&color=0e75b6&style=flat)
-
 <!-- Rainbow line -->
-<p align="center">
-<svg width="100%" height="6" viewBox="0 0 100 6" preserveAspectRatio="none">
-<defs>
-<linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%"   stop-color="#F4D03F"/>
-<stop offset="25%"  stop-color="#2ECC71"/>
-<stop offset="50%"  stop-color="#1ABC9C"/>
-<stop offset="75%"  stop-color="#3498DB"/>
-<stop offset="100%" stop-color="#9B59B6"/>
-</linearGradient>
-</defs>
-<rect x="0" y="0" width="100" height="6" rx="3" ry="3" fill="url(#grad)"/>
-</svg>
+<p align="center" style="margin:0;">
+  <svg width="100%" height="6" viewBox="0 0 100 6" preserveAspectRatio="none">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   stop-color="#F4D03F"/>
+        <stop offset="25%"  stop-color="#2ECC71"/>
+        <stop offset="50%"  stop-color="#1ABC9C"/>
+        <stop offset="75%"  stop-color="#3498DB"/>
+        <stop offset="100%" stop-color="#9B59B6"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="100" height="6" rx="3" ry="3" fill="url(#grad)"/>
+  </svg>
 </p>
+<p align="center" style="margin:0;">
+  <img src="assets/rainbow.gif" width="100%" height="6" alt="Rainbow line"/>
+</p>
+
 <h1>
   Hello 👋 World
   <img src="assets/earth.gif" width="28" alt="Rotating Earth"/>
