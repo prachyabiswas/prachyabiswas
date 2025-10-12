@@ -1,6 +1,5 @@
 [Profile views](https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&color=0e75b6&style=flat)
-<img src="./assets/neon-title.svg" alt="Welcome to My Github Profile" />
-
+<img src="./assets/neon-title.svg" alt="   Welcome to My Github Profile" />
 <!-- Rainbow line -->
 <p align="center" style="margin:0;">
   <svg width="100%" height="6" viewBox="0 0 100 6" preserveAspectRatio="none">
