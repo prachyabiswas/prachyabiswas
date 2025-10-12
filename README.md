@@ -1,5 +1,4 @@
 [Profile views](https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&color=0e75b6&style=flat)
-<img src="./assets/neon-title.svg" alt="   Welcome to My Github Profile" />
 <!-- Rainbow line -->
 <p align="center" style="margin:0;">
   <svg width="100%" height="6" viewBox="0 0 100 6" preserveAspectRatio="none">
@@ -29,7 +28,7 @@
   <p align="center"><h1>Hi, I'm Prachya </h1><p>
   <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
 <!-- Title -->
-
+<img src="./assets/neon-title.svg" alt="   Welcome to My Github Profile" />
 <!-- Typing lines -->
 <p align="center">
   <img
