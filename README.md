@@ -71,28 +71,22 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?logo=visualstudiocode&logoColor=007ACC)
 
 <h2>GitHub Stats</h2>
-<!-- Stats + Top Langs side-by-side -->
+<!-- Stats + Top Langs -->
 <div align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=prachyabiswas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=C9D1D9&icon_color=6E84D5&ring_color=6E84D5&border_radius=12&v=3"
-    height="170"
-    alt="GitHub Stats"
-  />
+    height="170" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prachyabiswas&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=C9D1D9&card_width=420&border_radius=12&v=3"
-    height="170"
-    alt="Top Languages"
-  />
+    height="170" alt="Top Languages" />
 </div>
 
-<!-- Streak (unchanged) -->
+<!-- Streak -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=prachyabiswas&hide_border=true&background=0D1117&ring=0A3D91&fire=0A3D91&currStreakNum=8AA7FF&currStreakLabel=8AA7FF&sideNums=8AA7FF&sideLabels=8AA7FF&dates=94A3B8&stroke=0A3D91&border_radius=12&v=4"
-    height="170"
-    alt="GitHub Streak"
-  />
+    height="170" alt="GitHub Streak" />
 </p>
 
 <!-- Contribution Graph -->
