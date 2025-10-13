@@ -26,27 +26,6 @@
   <img src="assets/earth.gif" width="28" alt="Rotating Earth"/>
 </h1>
 
-
-
-  <p align="center"><h1>Hi, I'm Prachya </h1><p>
-  <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
-<!-- Title -->
-<h2>GitHub Stats</h2>
-
-<p align="center">
-  <img alt="GitHub Stats" height="190"
-       src="https://github-readme-stats.vercel.app/api?username=prachyabiswas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=7200" />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=prachyabiswas&theme=dark&hide_border=true&sideLabels=FF0000&sideNums=00BFFF&currStreakNum=00BFFF&currStreakLabel=00BFFF"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 ### About me
 - 🔭 Learning & building in **Machine Learning** and **Deep Learning** (hands-on projects).
 - 🧰 Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and Jupyter.
@@ -73,6 +52,23 @@
 </p>
 
 
+
+
+  <p align="center"><h1>Hi, I'm Prachya </h1><p>
+  <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
+<h2>GitHub Stats</h2>
+
+<p align="center">
+  <img alt="GitHub Stats" height="190"
+       src="https://github-readme-stats.vercel.app/api?username=prachyabiswas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=7200" />
+</p>
+
+<p align="center">
+  <img alt="GitHub Streak" height="215"
+       src="https://streak-stats.demolab.com?user=prachyabiswas&hide_border=true&border_radius=14&background=0d1117&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&cache_seconds=7200" />
+</p>
+
+---
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0A0A0A?logo=python&logoColor=FFD343&style=for-the-badge" /></a>
