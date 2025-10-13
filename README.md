@@ -75,11 +75,30 @@
        src="https://github-readme-stats.vercel.app/api?username=prachyabiswas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=7200" />
 </p>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prachyabiswas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=CDD6F4&icon_color=6E84D5&ring_color=6E84D5&v=3)
+<h2 align="center">GitHub Stats</h2>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=prachyabiswas&hide_border=true&background=0D1117&ring=6E84D5&fire=8AA7FF&currStreakNum=8AA7FF&currStreakLabel=8AA7FF&sideNums=8AA7FF&sideLabels=8AA7FF&dates=94A3B8&stroke=233554&v=3)
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=prachyabiswas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=C9D1D9&icon_color=6E84D5&ring_color=6E84D5&border_radius=12&v=3"
+    height="170"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prachyabiswas&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=CDD6F4&v=3)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=prachyabiswas&hide_border=true&background=0D1117&ring=6E84D5&fire=8AA7FF&currStreakNum=8AA7FF&currStreakLabel=8AA7FF&sideNums=8AA7FF&sideLabels=8AA7FF&dates=94A3B8&stroke=233554&border_radius=12&v=3"
+    height="170"
+  />
+</p>
+
+<h3 align="center">Most Used Languages</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prachyabiswas&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=C9D1D9&card_width=420&border_radius=12&v=3"
+    height="170"
+  />
+</p>
 
 
 <!-- Contribution Graph -->
