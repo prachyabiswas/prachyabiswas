@@ -104,6 +104,12 @@
     height="170"
   />
 </p>
+<!-- Contribution Graph -->
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=prachyabiswas&bg_color=0d1117&color=f92672&line=bf5fff&point=444444&area=true&area_color=ff79c6&hide_border=true"
+    alt="Prachya's Contribution Graph" />
+</p>
 
 
 ### Featured Projects
