@@ -52,7 +52,8 @@
 - 🏆 Former **Regional Math Olympiad Champion**.
 - 💡 I enjoy solving problems and writing clean, reproducible code.
 - 🎯 Current focus: improving model performance, clean data pipelines, and experiment tracking.
-<!-- Tech stack: one strict row -->
+# 🧰 Tech Stack
+
 <div align="center">
 
 <table>
@@ -71,6 +72,7 @@
 </table>
 
 </div>
+
 
 <h2>GitHub Stats</h2>
 <!-- Stats + Top Langs side-by-side -->
