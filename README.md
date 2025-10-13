@@ -52,19 +52,25 @@
 - 🏆 Former **Regional Math Olympiad Champion**.
 - 💡 I enjoy solving problems and writing clean, reproducible code.
 - 🎯 Current focus: improving model performance, clean data pipelines, and experiment tracking.
-<!-- Tech stack in one line -->
-<p align="center" style="white-space:nowrap; overflow-x:auto; padding:6px 0;">
-  <img src="https://img.shields.io/badge/Python-0A0A0A?logo=python&logoColor=FFD343&labelColor=111&style=for-the-badge" alt="Python" style="display:inline-block;margin:2px;">
-  <img src="https://img.shields.io/badge/Java-0A0A0A?logo=openjdk&logoColor=F89820&labelColor=111&style=for-the-badge" alt="Java" style="display:inline-block;margin:2px;">
-  <img src="https://img.shields.io/badge/NumPy-0A0A0A?logo=numpy&logoColor=4DABCF&labelColor=111&style=for-the-badge" alt="NumPy" style="display:inline-block;margin:2px;">
-  <img src="https://img.shields.io/badge/Pandas-0A0A0A?logo=pandas&logoColor=130754&labelColor=111&style=for-the-badge" alt="Pandas" style="display:inline-block;margin:2px;">
-  <img src="https://img.shields.io/badge/scikit--learn-0A0A0A?logo=scikitlearn&logoColor=F89939&labelColor=111&style=for-the-badge" alt="scikit-learn" style="display:inline-block;margin:2px;">
-  <img src="https://img.shields.io/badge/TensorFlow-0A0A0A?logo=tensorflow&logoColor=FF6F00&labelColor=111&style=for-the-badge" alt="TensorFlow" style="display:inline-block;margin:2px;">
-  <img src="https://img.shields.io/badge/PyTorch-0A0A0A?logo=pytorch&logoColor=EE4C2C&labelColor=111&style=for-the-badge" alt="PyTorch" style="display:inline-block;margin:2px;">
-  <img src="https://img.shields.io/badge/Jupyter-0A0A0A?logo=jupyter&logoColor=F37626&labelColor=111&style=for-the-badge" alt="Jupyter" style="display:inline-block;margin:2px;">
-  <img src="https://img.shields.io/badge/Git-0A0A0A?logo=git&logoColor=F05032&labelColor=111&style=for-the-badge" alt="Git" style="display:inline-block;margin:2px;">
-  <img src="https://img.shields.io/badge/VS%20Code-0A0A0A?logo=visualstudiocode&logoColor=007ACC&labelColor=111&style=for-the-badge" alt="VS Code" style="display:inline-block;margin:2px;">
-</p>
+<!-- Tech stack: one strict row -->
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-0A0A0A?logo=python&logoColor=FFD343&labelColor=111&style=for-the-badge" alt="Python"></td>
+    <td><img src="https://img.shields.io/badge/Java-0A0A0A?logo=openjdk&logoColor=F89820&labelColor=111&style=for-the-badge" alt="Java"></td>
+    <td><img src="https://img.shields.io/badge/NumPy-0A0A0A?logo=numpy&logoColor=4DABCF&labelColor=111&style=for-the-badge" alt="NumPy"></td>
+    <td><img src="https://img.shields.io/badge/Pandas-0A0A0A?logo=pandas&logoColor=130754&labelColor=111&style=for-the-badge" alt="Pandas"></td>
+    <td><img src="https://img.shields.io/badge/scikit--learn-0A0A0A?logo=scikitlearn&logoColor=F89939&labelColor=111&style=for-the-badge" alt="scikit-learn"></td>
+    <td><img src="https://img.shields.io/badge/TensorFlow-0A0A0A?logo=tensorflow&logoColor=FF6F00&labelColor=111&style=for-the-badge" alt="TensorFlow"></td>
+    <td><img src="https://img.shields.io/badge/PyTorch-0A0A0A?logo=pytorch&logoColor=EE4C2C&labelColor=111&style=for-the-badge" alt="PyTorch"></td>
+    <td><img src="https://img.shields.io/badge/Jupyter-0A0A0A?logo=jupyter&logoColor=F37626&labelColor=111&style=for-the-badge" alt="Jupyter"></td>
+    <td><img src="https://img.shields.io/badge/Git-0A0A0A?logo=git&logoColor=F05032&labelColor=111&style=for-the-badge" alt="Git"></td>
+    <td><img src="https://img.shields.io/badge/VS%20Code-0A0A0A?logo=visualstudiocode&logoColor=007ACC&labelColor=111&style=for-the-badge" alt="VS Code"></td>
+  </tr>
+</table>
+
+</div>
 
 <h2>GitHub Stats</h2>
 <!-- Stats + Top Langs side-by-side -->
