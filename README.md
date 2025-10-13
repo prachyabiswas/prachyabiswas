@@ -23,16 +23,15 @@
   <img src="assets/rainbow.gif" width="100%" height="6" alt="Rainbow line"/>
 </p>
 
-<h1>
-  Hello  World
-  <img src="assets/earth.gif" width="28" alt="Rotating Earth"/>
+<h2 align="left" style="font-size:22px; font-weight:600; margin:0;">
+  Hello World <img src="./assets/earth.gif" width="20" style="vertical-align:middle;"/>
+</h2>
 
-<!-- Typing lines (smaller size + fixed width) -->
+<!-- Typing lines -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=900&color=4F8CFF&center=true&vCenter=true&repeat=true&width=520&lines=I+am+Prachya;ML+%26+Deep+Learning+Learner;Loves+Building+Things;Having+fun+with+coding+and+data.;Ask+me+about+anything,+I+am+happy+to+help;Thanks+for+visiting+my+profile."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=4F8CFF&center=true&vCenter=true&repeat=true&width=820&lines=Hi,+I+am+Prachya;ML+%26+Deep+Learning+Learner;Having+fun+with+coding+and+data.;Ask+me+about+anything,+I+am+happy+to+help;Thanks+for+visiting+my+profile."
     alt="Typing lines"
-    width="520"
   />
 </p>
 
