@@ -2,6 +2,27 @@
 ![Profile views](https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&labelColor=4b4b4b&color=1e90ff&style=flat)
 
 <p align="center">
+  <img src="./assets/purple-line.svg" width="90%" alt="" />
+</p>
+
+<h1 align="center">Hi, I'm Prachya</h1>
+<p align="center">
+  ML & Deep Learning Learner • Java + Python • Loves Building Things
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/">LinkedIn</a> ·
+  <a href="mailto:prachya.biswas@g.bracu.ac.bd">Email</a> ·
+  <a href="https://github.com/prachyabiswas">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&labelColor=4b4b4b&color=1e90ff&style=flat" />
+</p>
+
+
+
+<p align="center">
   <img src="./assets/neon-title.svg" alt="Welcome to My Github Profile" width="720">
 </p>
 <!-- Rainbow line -->
