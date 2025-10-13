@@ -52,7 +52,7 @@
 - 🏆 Former **Regional Math Olympiad Champion**.
 - 💡 I enjoy solving problems and writing clean, reproducible code.
 - 🎯 Current focus: improving model performance, clean data pipelines, and experiment tracking.
-# 🧰 Tech Stack
+# Tech Stack:
 
 <div align="center">
 
