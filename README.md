@@ -70,12 +70,6 @@
 </p>
 <h2>GitHub Stats</h2>
 
-<p align="center">
-  <img alt="GitHub Stats" height="190"
-       src="https://github-readme-stats.vercel.app/api?username=prachyabiswas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=7200" />
-</p>
-
-<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img
