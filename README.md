@@ -26,23 +26,14 @@
 <h1>
   Hello  World
   <img src="assets/earth.gif" width="28" alt="Rotating Earth"/>
-<!-- Typing lines -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=4F8CFF&center=true&vCenter=true&repeat=true&width=820&lines=Hi+,+I+am+Prachya;ML+%26+Deep+Learning+Learner;Loves+Building+Things;Having+fun+with+coding+and+data.;Ask+me+about+anything,+I+am+happy+to+help;Thanks+for+visiting+my+profile."
-    alt="Typing lines"
-  />
 <p align="center" style="margin:6px 0 14px; font-size:16px;">
-  <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/"
-     style="text-decoration:underline; text-underline-offset:2px; text-decoration-thickness:1px;">
-    LinkedIn
-  </a>
-  <span style="opacity:.6"> • </span>
-  <a href="mailto:prachya.biswas@g.bracu.ac.bd"
-     style="text-decoration:underline; text-underline-offset:2px; text-decoration-thickness:1px;">
-    Email
-  </a>
+  <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/"><u>LinkedIn</u></a>
+  •
+  <a href="mailto:prachya.biswas@g.bracu.ac.bd"><u>Email</u></a>
+  •
+  <a href="https://github.com/prachyabiswas"><u>GitHub</u></a>
 </p>
+
 
 
 ### About me
