@@ -27,10 +27,6 @@
   Hello  World
   <img src="assets/earth.gif" width="28" alt="Rotating Earth"/>
 </h1>
-<p align="center">
-  <img src="./assets/purple-line.svg" width="90%" alt="" />
-</p>
-
 <h1 align="center">Hi, I'm Prachya</h1>
 <p align="center">
   ML & Deep Learning Learner • Java + Python • Loves Building Things
