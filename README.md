@@ -86,11 +86,11 @@
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-0A0A0A?logo=git&logoColor=F05032&style=for-the-badge" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0A0A0A?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge" /></a>
 </p>
-<h2>GitHub Stats</h2>
-
 <p align="center">
-  <img alt="GitHub Stats" height="190"
-       src="https://github-readme-stats.vercel.app/api?username=prachyabiswas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=7200" />
+  <img
+    src="https://streak-stats.demolab.com/?user=prachyabiswas&theme=dark&hide_border=true&sideLabels=FF0000&sideNums=FFD700&currStreakNum=FFD700"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
