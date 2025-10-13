@@ -87,7 +87,7 @@
 
 <!-- Streak (unchanged) -->
 <p align="center">
-  <img
+  <img alt="GitHub Streak" height="215"
     src="https://streak-stats.demolab.com?user=prachyabiswas&hide_border=true&background=0D1117&ring=0A3D91&fire=0A3D91&currStreakNum=8AA7FF&currStreakLabel=8AA7FF&sideNums=8AA7FF&sideLabels=8AA7FF&dates=94A3B8&stroke=0A3D91&border_radius=12&v=4"
     height="170"
     alt="GitHub Streak"
