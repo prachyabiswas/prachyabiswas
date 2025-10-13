@@ -1,10 +1,12 @@
 <a id="top"></a>
-![Profile views](https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&labelColor=4b4b4b&color=1e90ff&style=flat)
 
 <p align="center">
   <img src="./assets/purple-line.svg" width="90%" alt="" />
 </p>
-
+<h1>
+  Hello  World
+  <img src="assets/earth.gif" width="28" alt="Rotating Earth"/>
+</h1>
 <h1 align="center">Hi, I'm Prachya</h1>
 <p align="center">
   ML & Deep Learning Learner • Java + Python • Loves Building Things
@@ -44,10 +46,6 @@
   <img src="assets/rainbow.gif" width="100%" height="6" alt="Rainbow line"/>
 </p>
 
-<h1>
-  Hello  World
-  <img src="assets/earth.gif" width="28" alt="Rotating Earth"/>
-</h1>
 
   <p align="center"><h1>Hi, I'm Prachya </h1><p>
   <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
