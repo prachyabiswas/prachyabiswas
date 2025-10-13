@@ -69,8 +69,6 @@
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0A0A0A?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge" /></a>
 </p>
 <h2>GitHub Stats</h2>
-
-
 <!-- Stats + Top Langs side-by-side -->
 <div align="center">
   <img
