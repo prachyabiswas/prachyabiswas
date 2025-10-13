@@ -31,19 +31,19 @@
   <p align="center"><h1>Hi, I'm Prachya </h1><p>
   <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
 <!-- Title -->
-<!-- Typing lines -->
+<h2>GitHub Stats</h2>
+
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=4F8CFF&center=true&vCenter=true&repeat=true&width=700&lines=I+am+Prachya;ML+%26+Deep+Learning+Learner;Having+fun+with+coding+and+data.;Thanks+for+visiting+my+profile."
-    alt="Typing SVG"
-  />
+  <img alt="GitHub Stats" height="190"
+       src="https://github-readme-stats.vercel.app/api?username=prachyabiswas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=7200" />
 </p>
 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/">LinkedIn</a> •
-  <a href="mailto:prachya.biswas@g.bracu.ac.bd">Email</a>
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=prachyabiswas&theme=dark&hide_border=true&sideLabels=FF0000&sideNums=00BFFF&currStreakNum=FFD700"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
