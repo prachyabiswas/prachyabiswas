@@ -38,10 +38,6 @@
   <a href="https://github.com/prachyabiswas">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&labelColor=4b4b4b&color=1e90ff&style=flat" />
-</p>
-
 ### About me
 - 🔭 Learning & building in **Machine Learning** and **Deep Learning** (hands-on projects).
 - 🧰 Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and Jupyter.
