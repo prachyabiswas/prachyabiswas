@@ -26,6 +26,14 @@
 <h1>
   Hello  World
   <img src="assets/earth.gif" width="28" alt="Rotating Earth"/>
+
+  <!-- Typing lines -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=4F8CFF&center=true&vCenter=true&repeat=true&width=820&lines=I+am+Prachya;ML+%26+Deep+Learning+Learner;Loves+Building+Things;Having+fun+with+coding+and+data.;Ask+me+about+anything,+I+am+happy+to+help;Thanks+for+visiting+my+profile."
+    alt="Typing lines"
+  />
+</p>
 <p align="center" style="margin:6px 0 14px; font-size:16px;">
   <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/"><u>LinkedIn</u></a>
   •
