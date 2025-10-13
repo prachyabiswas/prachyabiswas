@@ -108,25 +108,7 @@
   ➤ https://github.com/prachyabiswas/DISEASE-CLASSIFICATION.git
 
 "
-<!-- Red center-glow line (data-URI) -->
-<p align="center">
-  <img
-    width="100%"
-    height="8"
-    alt="red separator"
-    src="data:image/svg+xml;utf8,
-    <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 8' preserveAspectRatio='none'>
-      <defs>
-        <linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='0%'>
-          <stop offset='0%'   stop-color='%23ff6b6b' stop-opacity='0'/>
-          <stop offset='50%'  stop-color='%23ff4242' stop-opacity='1'/>
-          <stop offset='100%' stop-color='%23ff6b6b' stop-opacity='0'/>
-        </linearGradient>
-      </defs>
-      <rect x='0' y='3' width='100' height='2' rx='1' ry='1' fill='url(%23g)' />
-    </svg>"
-  />
-</p>
+
 <p align="center">
   <img src="./assets/purple-line.svg" width="100%" height="8" alt="purple separator"/>
 </p>
