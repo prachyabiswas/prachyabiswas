@@ -68,6 +68,7 @@
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-0A0A0A?logo=git&logoColor=F05032&style=for-the-badge" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0A0A0A?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge" /></a>
 </p>
+<h2>GitHub Stats</h2>
 
 <p align="center">
   <img alt="GitHub Stats" height="190"
@@ -75,22 +76,20 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" height="215"
-       src="https://streak-stats.demolab.com?user=prachyabiswas&hide_border=true&border_radius=14&background=0d1117&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&cache_seconds=7200" />
-</p>
-
----
-
-<p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=prachyabiswas&theme=dark&hide_border=true&sideLabels=FF0000&sideNums=FFD700&currStreakNum=FFD700"
+    src="https://streak-stats.demolab.com/?user=prachyabiswas
+&theme=dark
+&hide_border=true
+&background=0D1117
+&ring=6E84D5
+&fire=B6C4F0
+&currStreakNum=6E84D5
+&currStreakLabel=8A96AC
+&sideNums=8A96AC
+&sideLabels=8A96AC
+&dates=8A96AC"
     alt="GitHub Streak"
   />
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" height="215"
-       src="https://streak-stats.demolab.com?user=prachyabiswas&hide_border=true&border_radius=14&background=0d1117&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&cache_seconds=7200" />
 </p>
 
 <!-- Contribution Graph -->
