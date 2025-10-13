@@ -86,75 +86,29 @@
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-0A0A0A?logo=git&logoColor=F05032&style=for-the-badge" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0A0A0A?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge" /></a>
 </p>
-
-<!-- ====== STATS + STREAK (side-by-side cards) ====== -->
+<!-- ===== STATS + STREAK (side-by-side) ===== -->
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api
-          ?username=prachyabiswas
-          &show_icons=true
-          &include_all_commits=true
-          &count_private=true
-          &hide_border=true
-          &border_radius=12
-          &bg_color=0d1117
-          &title_color=58a6ff
-          &text_color=c9d1d9
-          &icon_color=ff79c6"
-        alt="GitHub Stats"
-        height="180" />
-    </td>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com
-          ?user=prachyabiswas
-          &hide_border=true
-          &border_radius=12
-          &background=0d1117
-          &ring=ff8e3c
-          &fire=ff8e3c
-          &currStreakLabel=ff8e3c
-          &sideNums=c9d1d9
-          &sideLabels=8b949e
-          &dates=8b949e"
-        alt="GitHub Streak"
-        height="180" />
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td>
+        <img height="180" alt="GitHub Stats"
+             src="https://github-readme-stats.vercel.app/api?username=prachyabiswas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=ff79c6&cache_seconds=7200" />
+      </td>
+      <td>
+        <img height="180" alt="GitHub Streak"
+             src="https://streak-stats.demolab.com?user=prachyabiswas&hide_border=true&border_radius=12&background=0d1117&ring=ff8e3c&fire=ff8e3c&currStreakLabel=ff8e3c&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- ====== MOST USED LANGUAGES (wide card) ====== -->
+<!-- ===== MOST USED LANGUAGES ===== -->
 <h3 align="left">Most Used Languages</h3>
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs
-      ?username=prachyabiswas
-      &layout=compact
-      &langs_count=8
-      &hide_border=true
-      &border_radius=12
-      &bg_color=0d1117
-      &title_color=58a6ff
-      &text_color=c9d1d9
-      &card_width=470"
-    height="180"
-    alt="Top Languages" />
+  <img height="180" alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=prachyabiswas&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=470&cache_seconds=7200" />
 </p>
 
-
-### Most Used Languages
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachyabiswas&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&card_width=380"
-    height="170"
-  />
-</p>
 <!-- Contribution Graph -->
 <p align="center">
   <img 
