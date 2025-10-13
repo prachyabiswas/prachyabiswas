@@ -34,13 +34,15 @@
     alt="Typing lines"
   />
 </p>
-<p align="center" style="margin:6px 0 14px; font-size:16px;">
-  <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/"><u>LinkedIn</u></a>
+
+<p align="center" style="margin:6px 0 10px; font-size:14px; line-height:1.1;">
+  <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/" style="text-decoration:underline;">LinkedIn</a>
   •
-  <a href="mailto:prachya.biswas@g.bracu.ac.bd"><u>Email</u></a>
+  <a href="mailto:prachya.biswas@g.bracu.ac.bd" style="text-decoration:underline;">Email</a>
   •
-  <a href="https://github.com/prachyabiswas"><u>GitHub</u></a>
+  <a href="https://github.com/prachyabiswas" style="text-decoration:underline;">GitHub</a>
 </p>
+
 
 
 
