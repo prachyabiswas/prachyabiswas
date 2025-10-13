@@ -74,22 +74,8 @@
   <img alt="GitHub Stats" height="190"
        src="https://github-readme-stats.vercel.app/api?username=prachyabiswas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=7200" />
 </p>
-
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=prachyabiswas
-&theme=dark
-&hide_border=true
-&background=0D1117
-&ring=6E84D5
-&fire=B6C4F0
-&currStreakNum=6E84D5
-&currStreakLabel=8A96AC
-&sideNums=8A96AC
-&sideLabels=8A96AC
-&dates=8A96AC"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=prachyabiswas&theme=dark&hide_border=true&background=0D1117&ring=6E84D5&fire=B6C4F0&currStreakNum=6E84D5&currStreakLabel=8A96AC&sideNums=8A96AC&sideLabels=8A96AC&dates=8A96AC&v=2" alt="GitHub Streak"/>
 </p>
 
 <!-- Contribution Graph -->
