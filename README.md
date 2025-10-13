@@ -32,12 +32,22 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=4F8CFF&center=true&vCenter=true&repeat=true&width=820&lines=Hi+,+I+am+Prachya;ML+%26+Deep+Learning+Learner;Loves+Building+Things;Having+fun+with+coding+and+data.;Ask+me+about+anything,+I+am+happy+to+help;Thanks+for+visiting+my+profile."
     alt="Typing lines"
   />
-  
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/">LinkedIn</a> ·
-  <a href="mailto:prachya.biswas@g.bracu.ac.bd">Email</a> ·
-  <a href="https://github.com/prachyabiswas">GitHub</a>
+  <!-- Social links — compact -->
+<p align="center" style="margin: 6px 0 18px;">
+  <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/"
+     style="font-size:18px; font-weight:600; margin:0 10px; text-decoration:none;">
+    LinkedIn
+  </a>
+  <span style="opacity:.6">·</span>
+  <a href="mailto:prachya.biswas@g.bracu.ac.bd"
+     style="font-size:18px; font-weight:600; margin:0 10px; text-decoration:none;">
+    Email
+  </a>
+  <span style="opacity:.6">·</span>
+  <a href="https://github.com/prachyabiswas"
+     style="font-size:18px; font-weight:600; margin:0 10px; text-decoration:none;">
+    GitHub
+  </a>
 </p>
 
 ### About me
