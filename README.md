@@ -26,10 +26,12 @@
 <h1>
   Hello  World
   <img src="assets/earth.gif" width="28" alt="Rotating Earth"/>
-</h1>
-<h1 align="center">Hi, I'm Prachya</h1>
+<!-- Typing lines -->
 <p align="center">
-  ML & Deep Learning Learner • Java + Python • Loves Building Things
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=4F8CFF&center=true&vCenter=true&repeat=true&width=820&lines=I+am+Prachya;ML+%26+Deep+Learning+Learner;Loves+Building+Things;Having+fun+with+coding+and+data.;Ask+me+about+anything,+I+am+happy+to+help;Thanks+for+visiting+my+profile."
+    alt="Typing lines"
+  />
 </p>
 
 <p align="center">
