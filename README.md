@@ -80,7 +80,10 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prachyabiswas&theme=dark&hide_border=true&background=0D1117&ring=6E84D5&fire=B6C4F0&currStreakNum=6E84D5&currStreakLabel=8A96AC&sideNums=8A96AC&sideLabels=8A96AC&dates=8A96AC&v=2" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=prachyabiswas&hide_border=true&background=0D1117&ring=6E84D5&fire=8AA7FF&currStreakNum=8AA7FF&currStreakLabel=8AA7FF&sideNums=8AA7FF&sideLabels=8AA7FF&dates=94A3B8&stroke=233554&v=1"
+    alt="GitHub Streak"
+  />
 </p>
 
 <!-- Contribution Graph -->
