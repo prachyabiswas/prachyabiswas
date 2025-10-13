@@ -26,6 +26,10 @@
   <img src="assets/earth.gif" width="28" alt="Rotating Earth"/>
 </h1>
 
+  <p align="center"><h1>Hi, I'm Prachya </h1><p>
+  <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
+<h2>GitHub Stats</h2>
+
 ### About me
 - 🔭 Learning & building in **Machine Learning** and **Deep Learning** (hands-on projects).
 - 🧰 Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and Jupyter.
@@ -64,11 +68,6 @@
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-0A0A0A?logo=git&logoColor=F05032&style=for-the-badge" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0A0A0A?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge" /></a>
 </p>
-
-
-  <p align="center"><h1>Hi, I'm Prachya </h1><p>
-  <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
-<h2>GitHub Stats</h2>
 
 <p align="center">
   <img alt="GitHub Stats" height="190"
