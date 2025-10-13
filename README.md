@@ -45,12 +45,6 @@
 <p align="center" style="margin:0;">
   <img src="assets/rainbow.gif" width="100%" height="6" alt="Rainbow line"/>
 </p>
-
-
-  <p align="center"><h1>Hi, I'm Prachya </h1><p>
-  <p>ML & Deep Learning Learner · Java + Python · Loves Building Things</p>
-<h2>GitHub Stats</h2>
-
 ### About me
 - 🔭 Learning & building in **Machine Learning** and **Deep Learning** (hands-on projects).
 - 🧰 Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and Jupyter.
