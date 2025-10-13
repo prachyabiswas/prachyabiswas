@@ -87,13 +87,64 @@
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0A0A0A?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prachyabiswas)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ====== STATS + STREAK (side-by-side cards) ====== -->
+<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prachyabiswas&show_icons=true&count_private=true)  
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api
+          ?username=prachyabiswas
+          &show_icons=true
+          &include_all_commits=true
+          &count_private=true
+          &hide_border=true
+          &border_radius=12
+          &bg_color=0d1117
+          &title_color=58a6ff
+          &text_color=c9d1d9
+          &icon_color=ff79c6"
+        alt="GitHub Stats"
+        height="180" />
+    </td>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com
+          ?user=prachyabiswas
+          &hide_border=true
+          &border_radius=12
+          &background=0d1117
+          &ring=ff8e3c
+          &fire=ff8e3c
+          &currStreakLabel=ff8e3c
+          &sideNums=c9d1d9
+          &sideLabels=8b949e
+          &dates=8b949e"
+        alt="GitHub Streak"
+        height="180" />
+    </td>
+  </tr>
+</table>
 
-### Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prachyabiswas&theme=dark&hide_border=true" alt="GitHub Streak"/> 
+</div>
+
+<!-- ====== MOST USED LANGUAGES (wide card) ====== -->
+<h3 align="left">Most Used Languages</h3>
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs
+      ?username=prachyabiswas
+      &layout=compact
+      &langs_count=8
+      &hide_border=true
+      &border_radius=12
+      &bg_color=0d1117
+      &title_color=58a6ff
+      &text_color=c9d1d9
+      &card_width=470"
+    height="180"
+    alt="Top Languages" />
 </p>
 
 
