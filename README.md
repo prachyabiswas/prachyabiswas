@@ -122,15 +122,14 @@
 <p align="center" style="margin:0;">
   <img src="assets/rainbow.gif" width="100%" height="6" alt="Rainbow line"/>
 </p>
+<p align="center">
+  <img src="./assets/purple-line.svg" width="85%" alt="">
+</p>
 
 <p align="center">
-  <a href="#top">
-    <img
-      src="https://img.shields.io/badge/BACK%20TO%20TOP-E74C3C?style=for-the-badge&logo=github&logoColor=white"
-      alt="Back to top"
-    />
-  </a>
+  <a href="#top">⬆️ Back to top</a>
 </p>
+
 
 
 
