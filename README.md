@@ -128,4 +128,11 @@
     />
   </a>
 </p>
+<p align="center">
+  <img src="./assets/purple-line.svg" width="85%" alt="">
+</p>
+
+<p align="center">
+  <a href="#top">⬆️ Back to top</a>
+</p>
 
