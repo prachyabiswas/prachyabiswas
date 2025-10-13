@@ -1,3 +1,4 @@
+<a id="top"></a>
 [Profile views](https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&color=0e75b6&style=flat)
 <p align="center">
   <img src="./assets/neon-title.svg" alt="Welcome to My Github Profile" width="720">
@@ -106,6 +107,19 @@
 - 🥔 **Potato Disease Classification (CNN)** — image classification pipeline with data aug & evaluation
   ➤ https://github.com/prachyabiswas/DISEASE-CLASSIFICATION.git
 
+<p align="center">
+  <svg width="75%" height="8" viewBox="0 0 100 4" preserveAspectRatio="none">
+    <defs>
+      <!-- মাঝখানে শক্ত লাল, পাশে ফেড-আউট -->
+      <linearGradient id="redfade" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   stop-color="#E74C3C" stop-opacity="0"/>
+        <stop offset="50%"  stop-color="#E74C3C" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#E74C3C" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="1.3" width="100" height="1.4" fill="url(#redfade)" rx="1" ry="1"/>
+  </svg>
+</p>
 
 "
 <p align="center">
