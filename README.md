@@ -107,21 +107,23 @@
 - 🥔 **Potato Disease Classification (CNN)** — image classification pipeline with data aug & evaluation
   ➤ https://github.com/prachyabiswas/DISEASE-CLASSIFICATION.git
 
+"
+<!-- Red center-glow line -->
 <p align="center">
-  <svg width="75%" height="8" viewBox="0 0 100 4" preserveAspectRatio="none">
+  <svg width="100%" height="8" viewBox="0 0 100 8" preserveAspectRatio="none">
     <defs>
-      <!-- মাঝখানে শক্ত লাল, পাশে ফেড-আউট -->
-      <linearGradient id="redfade" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%"   stop-color="#E74C3C" stop-opacity="0"/>
-        <stop offset="50%"  stop-color="#E74C3C" stop-opacity="1"/>
-        <stop offset="100%" stop-color="#E74C3C" stop-opacity="0"/>
+      <!-- দুই পাশে ফেইড, মাঝখানে উজ্জ্বল লাল -->
+      <linearGradient id="redline" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   stop-color="#ff6b6b" stop-opacity="0"/>
+        <stop offset="50%"  stop-color="#ff4242" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#ff6b6b" stop-opacity="0"/>
       </linearGradient>
     </defs>
-    <rect x="0" y="1.3" width="100" height="1.4" fill="url(#redfade)" rx="1" ry="1"/>
+    <!-- y=3, height=2 রাখায় পাতলা ক্লিন লাইন হবে -->
+    <rect x="0" y="3" width="100" height="2" rx="1" ry="1" fill="url(#redline)"/>
   </svg>
 </p>
 
-"
 <p align="center">
   <a href="#top">
     <img
