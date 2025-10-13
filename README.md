@@ -128,7 +128,7 @@
   />
 </p>
 <p align="center">
-  <img src="./assets/red-line.svg" width="100%" height="8" alt="red separator"/>
+  <img src="./assets/purple-line.svg" width="100%" height="8" alt="purple separator"/>
 </p>
 
 <p align="center">
