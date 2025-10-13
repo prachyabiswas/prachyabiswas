@@ -29,11 +29,11 @@
 <!-- Typing lines -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=4F8CFF&center=true&vCenter=true&repeat=true&width=820&lines=I+am+Prachya;ML+%26+Deep+Learning+Learner;Loves+Building+Things;Having+fun+with+coding+and+data.;Ask+me+about+anything,+I+am+happy+to+help;Thanks+for+visiting+my+profile."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=4F8CFF&center=true&vCenter=true&repeat=true&width=820&lines=Hi+,+I+am+Prachya;ML+%26+Deep+Learning+Learner;Loves+Building+Things;Having+fun+with+coding+and+data.;Ask+me+about+anything,+I+am+happy+to+help;Thanks+for+visiting+my+profile."
     alt="Typing lines"
   />
+  
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/">LinkedIn</a> ·
   <a href="mailto:prachya.biswas@g.bracu.ac.bd">Email</a> ·
