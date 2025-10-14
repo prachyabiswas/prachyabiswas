@@ -113,13 +113,11 @@
 </div>
 
 
-<!-- Streak : title + soft sky-blue line -->
-<div align="center" style="margin: 14px 0 6px;">
-  <span style="font-size:18px; font-weight:600; color:#8AA7FF; letter-spacing:.4px;">
-    Streak :
-  </span>
-  <br/>
-  <!-- thin gradient line -->
+<!-- Title for streak -->
+<h3 align="center"><font color="#8AA7FF">Streak :</font></h3>
+
+<!-- thin sky-blue line -->
+<p align="center">
   <svg width="320" height="4" viewBox="0 0 320 4" preserveAspectRatio="none">
     <defs>
       <linearGradient id="streak-line" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -130,7 +128,7 @@
     </defs>
     <rect x="0" y="0" width="320" height="4" rx="2" ry="2" fill="url(#streak-line)"/>
   </svg>
-</div>
+</p>
 
 <!-- Streak card -->
 <p align="center">
