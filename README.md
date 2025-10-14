@@ -112,13 +112,19 @@
   />
 </div>
 
-
-<!-- Title for streak -->
-<h3 align="center"><font color="#8AA7FF">Streak :</font></h3>
-
-<!-- thin sky-blue line -->
+<!-- Streak title (sky-blue, works on GitHub) -->
 <p align="center">
-  <svg width="320" height="4" viewBox="0 0 320 4" preserveAspectRatio="none">
+  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="34" viewBox="0 0 200 34">
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          fill="#8AA7FF" font-size="24" font-weight="600" font-family="Segoe UI, Roboto, Arial">
+      Streak :
+    </text>
+  </svg>
+</p>
+
+<!-- thin sky-blue line under the title -->
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="360" height="4" viewBox="0 0 360 4" preserveAspectRatio="none">
     <defs>
       <linearGradient id="streak-line" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%"   stop-color="#9BD0FF"/>
@@ -126,7 +132,7 @@
         <stop offset="100%" stop-color="#4F8CFF"/>
       </linearGradient>
     </defs>
-    <rect x="0" y="0" width="320" height="4" rx="2" ry="2" fill="url(#streak-line)"/>
+    <rect x="0" y="0" width="360" height="4" rx="2" ry="2" fill="url(#streak-line)"/>
   </svg>
 </p>
 
