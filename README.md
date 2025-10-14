@@ -113,6 +113,25 @@
 </div>
 
 
+<!-- Streak : title + soft sky-blue line -->
+<div align="center" style="margin: 14px 0 6px;">
+  <span style="font-size:18px; font-weight:600; color:#8AA7FF; letter-spacing:.4px;">
+    Streak :
+  </span>
+  <br/>
+  <!-- thin gradient line -->
+  <svg width="320" height="4" viewBox="0 0 320 4" preserveAspectRatio="none">
+    <defs>
+      <linearGradient id="streak-line" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   stop-color="#9BD0FF"/>
+        <stop offset="50%"  stop-color="#6EA9FF"/>
+        <stop offset="100%" stop-color="#4F8CFF"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="320" height="4" rx="2" ry="2" fill="url(#streak-line)"/>
+  </svg>
+</div>
+
 <!-- Streak card -->
 <p align="center">
   <img
@@ -121,6 +140,7 @@
     alt="GitHub Streak"
   />
 </p>
+
 
 <!-- Contribution Graph -->
 <p align="center">
