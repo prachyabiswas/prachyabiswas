@@ -1,6 +1,4 @@
 <a id="top"></a>
-![Profile views](https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&labelColor=4b4b4b&color=1e90ff&style=flat)
-
 <p align="center">
   <img src="./assets/neon-title.svg" alt="Welcome to My Github Profile" width="720">
 </p>
@@ -26,7 +24,7 @@
 <h2 align="left" style="font-size:22px; font-weight:600; margin:0;">
   Hello World <img src="./assets/earth.gif" width="20" style="vertical-align:middle;"/>
 </h2>
-
+![Profile views](https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&labelColor=4b4b4b&color=1e90ff&style=flat)
 <!-- Typing lines -->
 <p align="center">
   <img
