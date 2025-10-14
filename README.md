@@ -112,7 +112,7 @@
   />
 </div>
 
-<!-- Streak title (sky-blue, works on GitHub) -->
+<!-- Streak -->
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="200" height="34" viewBox="0 0 200 34">
     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
@@ -122,7 +122,6 @@
   </svg>
 </p>
 
-<!-- thin sky-blue line under the title -->
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="360" height="4" viewBox="0 0 360 4" preserveAspectRatio="none">
     <defs>
@@ -136,7 +135,7 @@
   </svg>
 </p>
 
-<!-- Streak card -->
+<!-- Streak card (unchanged) -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=prachyabiswas&hide_border=true&background=0D1117&ring=0A3D91&fire=0A3D91&currStreakNum=8AA7FF&currStreakLabel=8AA7FF&sideNums=8AA7FF&sideLabels=8AA7FF&dates=94A3B8&stroke=0A3D91&border_radius=12&v=4"
@@ -144,6 +143,7 @@
     alt="GitHub Streak"
   />
 </p>
+
 
 
 <!-- Contribution Graph -->
