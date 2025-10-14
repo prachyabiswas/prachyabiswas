@@ -41,6 +41,11 @@
   <a href="https://github.com/prachyabiswas" style="text-decoration:underline;">GitHub</a>
 </p>
 
+#### ⭐ Open Source Highlights
+- [your-cool-repo](https://github.com/you/your-cool-repo)
+  ![stars](https://img.shields.io/github/stars/you/your-cool-repo?style=social)
+  ![issues](https://img.shields.io/github/issues/you/your-cool-repo)
+  ![prs](https://img.shields.io/github/issues-pr-closed/you/your-cool-repo)
 
 
 
