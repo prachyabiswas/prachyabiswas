@@ -48,26 +48,52 @@
 - 🏆 Former **Regional Math Olympiad Champion**.
 - 💡 I enjoy solving problems and writing clean, reproducible code.
 - 🎯 Current focus: improving model performance, clean data pipelines, and experiment tracking.
-# Tech Stack:
+<!-- Tech I use (one gentle line, clickable) -->
+<p align="center" style="margin: 6px 0;">
+  <span style="display:inline-block; white-space:nowrap; overflow-x:auto; max-width:100%; padding-bottom:2px;">
+    <a href="https://www.python.org/" target="_blank">
+      <img alt="Python" height="22"
+           src="https://img.shields.io/badge/Python-111?style=flat&logo=python&logoColor=FFD343&labelColor=202020"/>
+    </a>
+    <a href="https://openjdk.org/" target="_blank">
+      <img alt="Java" height="22"
+           src="https://img.shields.io/badge/Java-111?style=flat&logo=openjdk&logoColor=F89820&labelColor=202020"/>
+    </a>
+    <a href="https://numpy.org/" target="_blank">
+      <img alt="NumPy" height="22"
+           src="https://img.shields.io/badge/NumPy-111?style=flat&logo=numpy&logoColor=4DABCF&labelColor=202020"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank">
+      <img alt="Pandas" height="22"
+           src="https://img.shields.io/badge/Pandas-111?style=flat&logo=pandas&logoColor=8A63F6&labelColor=202020"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank">
+      <img alt="scikit-learn" height="22"
+           src="https://img.shields.io/badge/scikit--learn-111?style=flat&logo=scikitlearn&logoColor=F89939&labelColor=202020"/>
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank">
+      <img alt="TensorFlow" height="22"
+           src="https://img.shields.io/badge/TensorFlow-111?style=flat&logo=tensorflow&logoColor=FF6F00&labelColor=202020"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank">
+      <img alt="PyTorch" height="22"
+           src="https://img.shields.io/badge/PyTorch-111?style=flat&logo=pytorch&logoColor=EE4C2C&labelColor=202020"/>
+    </a>
+    <a href="https://jupyter.org/" target="_blank">
+      <img alt="Jupyter" height="22"
+           src="https://img.shields.io/badge/Jupyter-111?style=flat&logo=jupyter&logoColor=F37626&labelColor=202020"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img alt="Git" height="22"
+           src="https://img.shields.io/badge/Git-111?style=flat&logo=git&logoColor=F05032&labelColor=202020"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img alt="VS Code" height="22"
+           src="https://img.shields.io/badge/VS%20Code-111?style=flat&logo=visualstudiocode&logoColor=4FA7FF&labelColor=202020"/>
+    </a>
+  </span>
+</p>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Python-0A0A0A?logo=python&logoColor=FFD343&labelColor=111&style=for-the-badge" alt="Python"></td>
-    <td><img src="https://img.shields.io/badge/Java-0A0A0A?logo=openjdk&logoColor=F89820&labelColor=111&style=for-the-badge" alt="Java"></td>
-    <td><img src="https://img.shields.io/badge/NumPy-0A0A0A?logo=numpy&logoColor=4DABCF&labelColor=111&style=for-the-badge" alt="NumPy"></td>
-    <td><img src="https://img.shields.io/badge/Pandas-0A0A0A?logo=pandas&logoColor=130754&labelColor=111&style=for-the-badge" alt="Pandas"></td>
-    <td><img src="https://img.shields.io/badge/scikit--learn-0A0A0A?logo=scikitlearn&logoColor=F89939&labelColor=111&style=for-the-badge" alt="scikit-learn"></td>
-    <td><img src="https://img.shields.io/badge/TensorFlow-0A0A0A?logo=tensorflow&logoColor=FF6F00&labelColor=111&style=for-the-badge" alt="TensorFlow"></td>
-    <td><img src="https://img.shields.io/badge/PyTorch-0A0A0A?logo=pytorch&logoColor=EE4C2C&labelColor=111&style=for-the-badge" alt="PyTorch"></td>
-    <td><img src="https://img.shields.io/badge/Jupyter-0A0A0A?logo=jupyter&logoColor=F37626&labelColor=111&style=for-the-badge" alt="Jupyter"></td>
-    <td><img src="https://img.shields.io/badge/Git-0A0A0A?logo=git&logoColor=F05032&labelColor=111&style=for-the-badge" alt="Git"></td>
-    <td><img src="https://img.shields.io/badge/VS%20Code-0A0A0A?logo=visualstudiocode&logoColor=007ACC&labelColor=111&style=for-the-badge" alt="VS Code"></td>
-  </tr>
-</table>
-
-</div>
 
 
 <h2>GitHub Stats</h2>
