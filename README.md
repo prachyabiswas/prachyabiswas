@@ -94,7 +94,6 @@
     </a>
   </span>
 </p>
-
 <h2>GitHub Stats</h2>
 <!-- Stats + Top Langs side-by-side -->
 <div align="center">
