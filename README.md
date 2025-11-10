@@ -3,6 +3,7 @@
 <p align="center">
   <img src="./assets/neon-title.svg" alt="Welcome to My Github Profile" width="720">
 </p>
+
 <!-- Rainbow line -->
 <p align="center" style="margin:0;">
   <svg width="100%" height="6" viewBox="0 0 100 6" preserveAspectRatio="none">
