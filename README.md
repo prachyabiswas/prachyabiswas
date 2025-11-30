@@ -129,8 +129,6 @@
 - 🥔 **Potato Disease Classification (CNN)** — image classification pipeline with data aug & evaluation
   ➤ https://github.com/prachyabiswas/DISEASE-CLASSIFICATION.git
 
-
-
 <p align="center">
   <img src="./assets/purple-line.svg" width="100%" height="8" alt="purple separator"/>
 </p>
