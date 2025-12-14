@@ -42,11 +42,12 @@
 </p>
  About me
 
-- 🔭 Learning & building in **Machine Learning** and **Deep Learning** (hands-on projects).
-- 🧰 Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and Jupyter.
-- 🏆 Former **Regional Math Olympiad Champion**.
-- 💡 I enjoy solving problems and writing clean, reproducible code.
-- 🎯 Current focus: improving model performance, clean data pipelines, and experiment tracking.
+-  Learning & building in **Machine Learning** and **Deep Learning** (hands-on projects).
+-  Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and Jupyter.
+-  Problem Setter at International Math Olympiad
+-  Former **Regional Math Olympiad Champion**.
+-  I enjoy solving problems and writing clean, reproducible code.
+-  Current focus: improving model performance, clean data pipelines, and experiment tracking.
 <!-- Tech I use (one gentle line, clickable) -->
 <p align="center" style="margin: 6px 0;">
   <span style="display:inline-block; white-space:nowrap; overflow-x:auto; max-width:100%; padding-bottom:2px;">
