@@ -44,7 +44,7 @@
 
 -  Learning & building in **Machine Learning** and **Deep Learning** (hands-on projects).
 -  Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and Jupyter.
--  Problem Setter at International Math Olympiad
+-  Problem Setter at Bangladesh Math Olympiad
 -  Former **Regional Math Olympiad Champion**.
 -  I enjoy solving problems and writing clean, reproducible code.
 -  Current focus: improving model performance, clean data pipelines, and experiment tracking.
