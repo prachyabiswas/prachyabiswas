@@ -40,7 +40,7 @@
   •
   <a href="https://github.com/prachyabiswas" style="text-decoration:underline;">GitHub</a>
 </p>
-### About me
+ About me
 
 - 🔭 Learning & building in **Machine Learning** and **Deep Learning** (hands-on projects).
 - 🧰 Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and Jupyter.
