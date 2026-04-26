@@ -55,7 +55,7 @@
   <a href="https://github.com/prachyabiswas" style="text-decoration:underline;">GitHub</a>
 </p>
  About me
-
+-  Research Secretary at the ML & AI Research Lab, Bangladesh.
 -  Learning & building in **Machine Learning** and **Deep Learning** (hands-on projects).
 -  Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and Jupyter.
 -  Problem Setter at Bangladesh Math Olympiad
