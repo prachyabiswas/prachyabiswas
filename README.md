@@ -37,6 +37,7 @@
 ## About Me
 
 - Research Secretary at **ML & AI Research Lab, Bangladesh**
+- Academic Team Member at **Bangladesh Mathematical olympiad**
 - Learning and building in **Machine Learning** and **Deep Learning**
 - Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and **Jupyter Notebook**
 - Problem Setter at **Bangladesh Math Olympiad**
