@@ -39,8 +39,7 @@
 - Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and **Jupyter Notebook**
 - Problem Setter at **Bangladesh Math Olympiad**
 - Former **Regional Math Olympiad Champion**
-- I enjoy solving problems and writing clean, reproducible code
-- Current focus: model performance, clean data pipelines, and experiment tracking
+- I enjoy solving problems and writing clean, reproducible code.
 
 <p align="center">
   <a href="https://www.python.org/">
