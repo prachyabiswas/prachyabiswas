@@ -3,7 +3,13 @@
 <a id="top"></a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&labelColor=4b4b4b&color=1e90ff&style=flat)
+<br>
 
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Prachya Biswas Banner" width="100%" />
+</p>
+
+<br>
 <p align="center">
   <img src="./assets/neon-title.svg" alt="Welcome to My GitHub Profile" width="720">
 </p>
