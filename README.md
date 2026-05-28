@@ -1,10 +1,8 @@
-
-
 <a id="top"></a>
 
-![Profile views](https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&labelColor=4b4b4b&color=1e90ff&style=flat)
 <p align="center">
   <img src="./assets/banner.png" width="100%" />
+  ![Profile views](https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&labelColor=4b4b4b&color=1e90ff&style=flat)
 <p align="center">
   <img src="assets/rainbow.gif" width="100%" height="6" alt="Rainbow line"/>
 </p>
