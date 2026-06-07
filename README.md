@@ -112,9 +112,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/rainbow.gif" width="100%" height="6" alt="Rainbow line"/>
-</p>
-
-<p align="center">
   <a href="#top">⬆️ Back to top</a>
 </p>
