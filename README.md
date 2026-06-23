@@ -31,6 +31,7 @@
 
 - Research Secretary at **ML & AI Research Lab, Bangladesh**
 - Academic Team Member at **Bangladesh Mathematical olympiad**
+- Honored with the Certificate of Excellence 2026 for Academic Team contributions at **Bangladesh Mathematical olympiad**
 - Learning and building in **Machine Learning** and **Deep Learning**
 - Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and **Jupyter Notebook**
 - Problem Setter at **Bangladesh Math Olympiad**
