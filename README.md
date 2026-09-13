@@ -1,7 +1,11 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Prachya Biswas Banner"/>
+  <img
+    src="./assets/banner.png"
+    width="100%"
+    alt="Prachya Biswas Banner"
+  />
 </p>
 
 <p align="center">
@@ -145,13 +149,13 @@
 <div align="center">
 
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=prachyabiswas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=C9D1D9&icon_color=6E84D5&ring_color=6E84D5&border_radius=12"
+    src="https://github-readme-stats.vercel.app/api?username=prachyabiswas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=C9D1D9&icon_color=6E84D5&border_radius=12"
     height="170"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prachyabiswas&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=C9D1D9&card_width=420&border_radius=12"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachyabiswas&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=C9D1D9&card_width=420&border_radius=12"
     height="170"
     alt="Top Languages"
   />
@@ -165,16 +169,6 @@
     src="https://streak-stats.demolab.com?user=prachyabiswas&hide_border=true&background=0D1117&ring=0A3D91&fire=0A3D91&currStreakNum=8AA7FF&currStreakLabel=8AA7FF&sideNums=8AA7FF&sideLabels=8AA7FF&dates=94A3B8&stroke=0A3D91&border_radius=12"
     height="170"
     alt="GitHub Streak"
-  />
-</p>
-
-<br/>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prachyabiswas&bg_color=0d1117&color=f92672&line=bf5fff&point=444444&area=true&area_color=ff79c6&hide_border=true"
-    alt="Prachya's Contribution Graph"
-    width="95%"
   />
 </p>
 
