@@ -1,13 +1,18 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" />
+  <img src="./assets/banner.png" width="100%" alt="Prachya Biswas Banner" />
+</p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&labelColor=4b4b4b&color=1e90ff&style=flat" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20Views&labelColor=4b4b4b&color=1e90ff&style=flat"
+    alt="Profile views"
+  />
 </p>
 
 <h2 align="left">
-  Hello World <img src="./assets/earth.gif" width="22"/>
+  Hello World <img src="./assets/earth.gif" width="22" alt="Earth" />
 </h2>
 
 <p align="center">
@@ -25,17 +30,23 @@
   <a href="https://github.com/prachyabiswas">GitHub</a>
 </p>
 
+---
+
 ## About Me
 
-- Research Secretary at **ML & AI Research Lab, Bangladesh**
-- Academic Team Member at **Bangladesh Mathematical olympiad**
-- **Secretariat** at **IEEE BRAC University Student Branch**
-- Honored with the **Certificate of Excellence 2026** for Academic Team contributions at **Bangladesh Mathematical olympiad**
-- Learning and building in **Machine Learning** and **Deep Learning**
-- Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and **Jupyter Notebook**
-- Problem Setter at **Bangladesh Math Olympiad**
-- Former **Regional Math Olympiad Champion**
-- I enjoy solving problems and writing clean, reproducible code.
+- 🔬 **Research Secretary** at **ML & AI Research Lab, Bangladesh**
+- 📐 **Academic Team Member** at **Bangladesh Mathematical Olympiad**
+- ⚡ **Secretariat Member** at **IEEE BRAC University Student Branch**
+- 🏆 Recipient of the **Certificate of Excellence 2026** for contributions to the Academic Team at **Bangladesh Mathematical Olympiad**
+- 🤖 Learning and building in **Machine Learning** and **Deep Learning**
+- 💻 Comfortable with **Python, Java, NumPy, Pandas, scikit-learn, TensorFlow, PyTorch** and **Jupyter Notebook**
+- 🧩 **Problem Setter** at **Bangladesh Mathematical Olympiad**
+- 🥇 Former **Regional Math Olympiad Champion**
+- ✨ I enjoy solving problems, exploring ideas, and writing clean, reproducible code.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -70,7 +81,9 @@
   </a>
 </p>
 
-## GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img
@@ -94,20 +107,32 @@
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=prachyabiswas&bg_color=0d1117&color=f92672&line=bf5fff&point=444444&area=true&area_color=ff79c6&hide_border=true"
     alt="Prachya's Contribution Graph"
   />
 </p>
 
-## Featured Projects
+---
 
-- 🥔 **Potato Disease Classification using CNN**  
-  Image classification pipeline with data augmentation and evaluation  
-  🔗 https://github.com/prachyabiswas/DISEASE-CLASSIFICATION.git
+## 🚀 Featured Project
+
+### 🥔 Potato Disease Classification using CNN
+
+An image classification pipeline for detecting potato diseases using **Convolutional Neural Networks (CNNs)**, including data preprocessing, augmentation, training, and model evaluation.
+
+🔗 **Repository:**  
+https://github.com/prachyabiswas/DISEASE-CLASSIFICATION
+
+---
 
 <p align="center">
-  <img src="./assets/purple-line.svg" width="100%" height="8" alt="Purple separator"/>
+  <img
+    src="./assets/purple-line.svg"
+    width="100%"
+    height="8"
+    alt="Purple separator"
+  />
 </p>
 
 <p align="center">
