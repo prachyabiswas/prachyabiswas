@@ -51,7 +51,7 @@
 - Participant, **International Data Science Olympiad (IDSOL)**
 - Learning and building in **Machine Learning**, **Deep Learning**, and **Data Science**
 - Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and **Jupyter Notebook**
-- Currently exploring agentic AI tooling (**Google Antigravity**) and shipping full-stack ML projects end to end
+- Currently exploring agentic AI tooling and shipping full-stack ML projects end to end
 - I enjoy solving problems and writing clean, reproducible code.
 
 ---
