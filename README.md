@@ -28,15 +28,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prachya-biswas-06715932a/">
-    LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=202020" alt="LinkedIn" height="24"/>
   </a>
-  •
   <a href="mailto:prachya.biswas@g.bracu.ac.bd">
-    Email
+    <img src="https://img.shields.io/badge/Email-111?style=flat&logo=gmail&logoColor=EA4335&labelColor=202020" alt="Email" height="24"/>
   </a>
-  •
   <a href="https://github.com/prachyabiswas">
-    GitHub
+    <img src="https://img.shields.io/badge/GitHub-111?style=flat&logo=github&logoColor=white&labelColor=202020" alt="GitHub" height="24"/>
   </a>
 </p>
 
@@ -45,13 +43,13 @@
 ## About Me
 
 - 🔬 Research Secretary at **ML & AI Research Lab, Bangladesh**
-- 🧮 Academic Team Member at **Bangladesh Mathematical Olympiad**
+- 🧮 Academic Team Member & Problem Setter at **Bangladesh Mathematical Olympiad**
 - ⚡ **Secretariat** at **IEEE BRAC University Student Branch**
 - 🏆 Honored with the **Certificate of Excellence 2026** for Academic Team contributions at **Bangladesh Mathematical Olympiad**
-- 🤖 Learning and building in **Machine Learning** and **Deep Learning**
-- 💻 Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and **Jupyter Notebook**
-- 🧩 Problem Setter at **Bangladesh Math Olympiad**
 - 🥇 Former **Regional Math Olympiad Champion**
+- 🤖 Learning and building in **Machine Learning**, **Deep Learning**, and **Data Science**
+- 💻 Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and **Jupyter Notebook**
+- 🧠 Currently exploring agentic AI tooling (**Google Antigravity**) and shipping full-stack ML projects end to end
 - ✨ I enjoy solving problems and writing clean, reproducible code.
 
 ---
@@ -176,12 +174,18 @@
 
 ## 🚀 Featured Projects
 
-### 🥔 Potato Disease Classification using CNN
+<div align="center">
 
-Image classification pipeline using **Convolutional Neural Networks (CNN)** with data augmentation and model evaluation.
+| Project | Description |
+|---|---|
+| 🏥 [**MediSense BD**](https://github.com/prachyabiswas/MediSense-BD) | National health / epidemic forecasting platform — implemented the **TRACE** prediction model as the team's data scientist |
+| ♻️ [**Vangari AI**](https://github.com/prachyabiswas/Vangari-AI) | AI-powered waste marketplace for **IDSOL 2026** — vision-based material classification, geo-dispatch, and fair-payout pricing |
+| 🏦 [**Loan Prediction using ML**](https://github.com/prachyabiswas/Loan-Prediction-using-Machine-Learning) | Loan approval prediction using classic ML algorithms, with full EDA and model comparison |
+| 🥔 [**Potato Disease Classification**](https://github.com/prachyabiswas/DISEASE-CLASSIFICATION) | Image classification pipeline using **CNNs**, with data augmentation and model evaluation |
+| 📘 [**Java → Python Guide**](https://github.com/prachyabiswas/Java-to-Python-Guide) | A side-by-side Java ↔ Python code-equivalence reference, written while transitioning into Python for ML/data science |
+| 🤖 [**Google Antigravity Tutorial**](https://github.com/prachyabiswas/Google-Antigravity-Tutorial) | Beginner-to-advanced guide to Google's agent-first AI coding IDE |
 
-🔗 **Repository:**  
-https://github.com/prachyabiswas/DISEASE-CLASSIFICATION
+</div>
 
 ---
 
