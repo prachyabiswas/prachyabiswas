@@ -13,6 +13,10 @@
     src="https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&labelColor=4b4b4b&color=1e90ff&style=flat"
     alt="Profile views"
   />
+  <img
+    src="https://img.shields.io/github/last-commit/prachyabiswas/prachyabiswas?style=flat&labelColor=4b4b4b&color=1e90ff"
+    alt="Last commit"
+  />
 </p>
 
 <h2 align="left">
