@@ -50,7 +50,7 @@
 - Academic Team Member & Problem Setter at **Bangladesh Mathematical Olympiad**
 - Secretariat at **IEEE BRAC University Student Branch**
 - Honored with the **Certificate of Excellence 2026** for Academic Team contributions at **Bangladesh Mathematical Olympiad**
-- Former **Regional Math Olympiad Champion**
+- Former **Regional Champion** at **Bangladesh Mathematical Olympiad**
 - Finalist, **Bangladesh Blockchain and AI Olympiad (BBAIO)** — AI category
 - Participant, **International Data Science Olympiad (IDSOL)**
 - Learning and building in **Machine Learning**, **Deep Learning**, and **Data Science**
