@@ -50,7 +50,6 @@
 - Academic Team Member & Problem Setter at **Bangladesh Mathematical Olympiad**
 - Secretariat at **IEEE BRAC University Student Branch**
 - Learning and building in **Machine Learning**, **Deep Learning**, and **Data Science**
-- Comfortable with **Python, Java, NumPy, Pandas, scikit-learn** and **Jupyter Notebook**
 - Currently exploring agentic AI tooling and shipping full-stack ML projects end to end
 - I enjoy solving problems and writing clean, reproducible code.
 
