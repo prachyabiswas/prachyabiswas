@@ -49,7 +49,6 @@
 - Research Secretary at **ML & AI Research Lab, Bangladesh**
 - Academic Team Member & Problem Setter at **Bangladesh Mathematical Olympiad**
 - Secretariat at **IEEE BRAC University Student Branch**
-- Learning and building in **Machine Learning**, **Deep Learning**, and **Data Science**
 - Currently exploring agentic AI tooling and shipping full-stack ML projects end to end
 - I enjoy solving problems and writing clean, reproducible code.
 
@@ -67,6 +66,30 @@
 ## Tech Stack
 
 <p align="center">
+
+  <a href="https://en.wikipedia.org/wiki/Machine_learning">
+    <img
+      alt="Machine Learning"
+      height="22"
+      src="https://img.shields.io/badge/Machine%20Learning-111?style=flat&labelColor=202020"
+    />
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Deep_learning">
+    <img
+      alt="Deep Learning"
+      height="22"
+      src="https://img.shields.io/badge/Deep%20Learning-111?style=flat&labelColor=202020"
+    />
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Data_science">
+    <img
+      alt="Data Science"
+      height="22"
+      src="https://img.shields.io/badge/Data%20Science-111?style=flat&labelColor=202020"
+    />
+  </a>
 
   <a href="https://www.python.org/">
     <img
