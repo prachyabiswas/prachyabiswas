@@ -52,6 +52,8 @@
 - Currently exploring agentic AI tooling and shipping full-stack ML projects end to end
 - I enjoy solving problems and writing clean, reproducible code.
 
+---
+
 ## Honors & Achievements
 
 - Honored with the **Certificate of Excellence 2026** for Academic Team contributions at **Bangladesh Mathematical Olympiad**
@@ -59,6 +61,7 @@
 - Finalist, **Bangladesh Blockchain and AI Olympiad (BBAIO)** — AI category
 - Participant, **International Data Science Olympiad (IDSOL)**
 
+---
 
 ## Tech Stack
 
