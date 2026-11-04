@@ -43,6 +43,10 @@
   </a>
 </p>
 
+<p align="center">
+  prachya.biswas@g.bracu.ac.bd
+</p>
+
 ---
 
 ## About Me
