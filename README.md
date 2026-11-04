@@ -55,7 +55,7 @@
 - Academic Team Member & Problem Setter at **Bangladesh Mathematical Olympiad**
 - Secretariat at **IEEE BRAC University Student Branch**
 - Currently exploring agentic AI tooling and shipping full-stack ML projects end to end
-- I enjoy solving problems and writing clean, reproducible code.
+
 
 ---
 
