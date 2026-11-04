@@ -210,6 +210,7 @@
 
 | Project | Description |
 |---|---|
+| [**Ignis μ — NASA Space Apps 2026**](https://github.com/prachyabiswas/NASA-Space-Apps-2026) | Microgravity fire-safety AI for **NASA Space Apps Challenge 2026** — built a verified 850-run dataset from NASA ISS combustion experiments and trained five explainable ML models with source-traceable predictions |
 | [**MediSense BD**](https://github.com/prachyabiswas/MediSense-BD) | National health / epidemic forecasting platform — implemented the **TRACE** prediction model as the team's data scientist |
 | [**Vangari AI**](https://github.com/prachyabiswas/Vangari-AI) | AI-powered waste marketplace for **IDSOL 2026** — vision-based material classification, geo-dispatch, and fair-payout pricing |
 | [**Loan Prediction using ML**](https://github.com/prachyabiswas/Loan-Prediction-using-Machine-Learning) | Loan approval prediction using classic ML algorithms, with full EDA and model comparison |
