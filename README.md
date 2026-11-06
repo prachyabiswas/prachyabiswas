@@ -1,14 +1,5 @@
 
 <a id="top"></a>
-
-<p align="center">
-  <img
-    src="./assets/banner.png"
-    width="100%"
-    alt="Prachya Biswas Banner"
-  />
-</p>
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=prachyabiswas&label=Profile%20views&labelColor=4b4b4b&color=1e90ff&style=flat"
