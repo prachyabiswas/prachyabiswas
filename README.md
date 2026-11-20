@@ -51,6 +51,7 @@
 - Secretariat at **IEEE BRAC University Student Branch**
 - Currently exploring agentic AI tooling and shipping full-stack ML projects end to end
 - Reach me via email: [prachya.biswas@g.bracu.ac.bd](mailto:prachya.biswas@g.bracu.ac.bd)
+- [Visit my website](https://prachyabiswas.com/) for full portfolio, achievements, and experience.
 
 
 ---
